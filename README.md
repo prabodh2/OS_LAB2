@@ -12,3 +12,7 @@ can, display “You have permissions to edit “file_path.””If you cannot, d
 <img width="373" alt="Screenshot 2024-05-06 at 5 44 11 PM" src="https://github.com/prabodh2/OS_LAB2/assets/142776442/cd30ce75-d763-473b-beb1-322f569508a7"> <br>
 6.write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against 
 the file or directory with the long listing option. <br>
+<img width="482" alt="Screenshot 2024-05-06 at 6 09 29 PM" src="https://github.com/prabodh2/OS_LAB2/assets/142776442/bce7c89c-30f8-4f56-af92-afad6c2996eb"> <br>
+7.Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it. <br>
+
+8.Modify the previous script to accept an unlimited number of files and directories as arguments.
