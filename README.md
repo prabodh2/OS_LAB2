@@ -9,3 +9,6 @@
 can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path””. <br>
 <img width="283" alt="Screenshot 2024-05-06 at 5 27 33 PM" src="https://github.com/prabodh2/OS_LAB2/assets/142776442/235828c4-b41b-43c4-8c0b-e5b01fe6e398"> <br>
 5.Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible. <br>
+<img width="373" alt="Screenshot 2024-05-06 at 5 44 11 PM" src="https://github.com/prabodh2/OS_LAB2/assets/142776442/cd30ce75-d763-473b-beb1-322f569508a7"> <br>
+6.write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against 
+the file or directory with the long listing option. <br>
