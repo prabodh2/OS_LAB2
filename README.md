@@ -14,5 +14,6 @@ can, display “You have permissions to edit “file_path.””If you cannot, d
 the file or directory with the long listing option. <br>
 <img width="482" alt="Screenshot 2024-05-06 at 6 09 29 PM" src="https://github.com/prabodh2/OS_LAB2/assets/142776442/bce7c89c-30f8-4f56-af92-afad6c2996eb"> <br>
 7.Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it. <br>
+<img width="665" alt="Screenshot 2024-05-06 at 6 17 34 PM" src="https://github.com/prabodh2/OS_LAB2/assets/142776442/6a1dab09-8308-4883-9025-8fb7109a4191"> <br>
+8.Modify the previous script to accept an unlimited number of files and directories as arguments. <br>
 
-8.Modify the previous script to accept an unlimited number of files and directories as arguments.
